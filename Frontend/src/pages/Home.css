@@ -1,0 +1,13 @@
+.home__bg {
+    background-image: url(https://media.istockphoto.com/id/1278978403/photo/teenager-friends-sitting-together-and-laughing.jpg?b=1&s=170667a&w=0&k=20&c=cgukVPVr4Qa8rb0zLH7DlMk5LmYyoGpJAPqwha7FzFw=);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
